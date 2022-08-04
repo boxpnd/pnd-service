@@ -1,0 +1,3 @@
+rootProject.name = "PND-Service"
+include ':app'
+include ':pnd'
