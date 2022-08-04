@@ -15,7 +15,7 @@ repositories {
 Add implementation
 ```bash
 dependencies {
-   implementation 'com.github.devbenja:PandoraService:2.0'
+   implementation 'com.github.boxpnd:pnd-service:1.0.0'
 }
 ```
 
