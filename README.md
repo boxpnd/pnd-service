@@ -51,7 +51,7 @@ public void onCancelled(String msg) {
 Then we call the auth() function to create the login screen
 
 ```java
-pandora.auth() // You can place it inside a login button
+pandora.auth(); // You can place it inside a login button
 ```
 ## Questions
 If you have doubts or questions about how to use it, do not hesitate to send me an issue
