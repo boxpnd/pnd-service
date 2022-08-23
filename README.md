@@ -4,6 +4,13 @@ Pandora is an authentication service for Instagram.
 
 ## Installation
 
+Include manifst internet permission in your proyect (AndroidManifest.xml)
+
+```bash
+   <uses-permission android:name="android.permission.INTERNET" />
+   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+```
+
 Include jitpack in your proyect (build.gradle)
 
 ```bash
